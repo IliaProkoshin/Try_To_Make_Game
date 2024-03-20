@@ -1,0 +1,1 @@
+target_link_libraries(Test sfml-graphics sfml-window sfml-system)
